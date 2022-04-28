@@ -1,4 +1,4 @@
 streamlit
-opencv-python-headless==4.2.0.32
+opencv-python-headless
 keras
-tensorflow-cpu
+tensorflow=1.5.0
