@@ -2,3 +2,4 @@ streamlit
 opencv-python
 keras
 tensorflow
+scikit-learn
