@@ -1,4 +1,4 @@
 streamlit
-opencv-python-headless
+opencv-python
 keras
-tensorflow-cpu
+tensorflow
