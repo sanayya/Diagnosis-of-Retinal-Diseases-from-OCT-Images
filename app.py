@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 import prediction
 import streamlit as st
 import cv2

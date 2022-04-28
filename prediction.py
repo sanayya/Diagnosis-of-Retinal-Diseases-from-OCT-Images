@@ -1,10 +1,7 @@
-import warnings
-warnings.filterwarnings("ignore")
 import cv2 
 import numpy as np
 from keras.models import load_model
 from keras import backend as K
-import matplotlib.pyplot as plt
 
 def OCTPrediction(image):
     """
